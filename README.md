@@ -1,4 +1,4 @@
-<center><img src="asset/data-banner.jpg"></img></center>
+<center><img src="assets/data-banner.jpg"></img></center>
 
 # Test Project ETL
 
